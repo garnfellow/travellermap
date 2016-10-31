@@ -342,7 +342,7 @@ Hex	Name	UWP	Remarks	{Ix}	(Ex)	[Cx]	N	B	Z	PBG	W	A	Stellar
 2724	Ferenira	E100000-0	Ba Va	{ -3 }	(900-5)	[0000]	-	-	-	012	11	NaXX	M3 V
 2725	Daaliisa	D7676BA-6	Ag Ga Ni Ri	{ -1 }	(954-3)	[9517]	-	-	-	811	13	SoCf	M1 V
 2728	Eloji	B846648-A	Ag Ni	{ 2 }	(856-3)	[4846]	-	-	-	230	15	SoCf	M0 V
-2729	Exeter	A769898-8	Ph Ri	{ 1 }	(H74-1)	[799B]	-	-	-	452	12	SoCf	K3 V M9 V
+2729	Exeter	C769898-9	Ph Ri Fo	{ 1 }	(J74-2)	[894C]	-	-	R	452	12	NaHu	K3 V M9 V
 2825	Muni	A5428CA-7	He Ph Pi Po Da	{ 0 }	(A77-1)	[789A]	-	-	A	660	8	SoCf	K4 V M6 V
 2827	Promise	B542999-C	He Hi In Po Cp	{ 4 }	(98A-2)	[8D4E]	-	-	-	450	11	SoCf	M1 V
 2830	Poznan	D432887-8	Na Ph Po	{ -2 }	(673-1)	[9657]	-	-	-	440	12	NaHu	M4 V
